@@ -35,3 +35,4 @@ cd ..
 __vsc_prompt_cmd_original
 lls
 ls --color=auto
+more package.json
