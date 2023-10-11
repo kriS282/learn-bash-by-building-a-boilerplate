@@ -43,3 +43,4 @@ ls --color=auto
 ls --color=auto -1
 list -l
 ls --color=auto -l
+cd has
