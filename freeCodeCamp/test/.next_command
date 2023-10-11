@@ -25,3 +25,4 @@ echo hello terminal
 __vsc_prompt_cmd_original
 pwd
 ls --color=auto
+cd freeCodeCamp
